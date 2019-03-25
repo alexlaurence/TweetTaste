@@ -1,4 +1,4 @@
-# TweetTaster
+# TweetTaste
 Fun little food recommendation program based on sentiment analysis on Tweets. 
 
 Built for the ⚡[#PoweredByTF 2.0](https://tensorflow.devpost.com/) Challenge!
