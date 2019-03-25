@@ -1,5 +1,5 @@
 # TweetTaster
-Fun little food recommendation program based on sentiment analysis on Tweets
+Fun little food recommendation program based on sentiment analysis on Tweets. Built for the ⚡#PoweredByTF 2.0 Challenge!
 
 # Data
 * Base data: [Kaggle: Food Ingredients Lists](https://www.kaggle.com/datafiniti/food-ingredient-lists)
